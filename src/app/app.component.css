@@ -1,0 +1,25 @@
+.outer-class{
+    text-align: center;
+    padding: 40px;
+}
+.form-signin{
+    width: 100%;
+    max-width: 350px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.form-signin input[type="email"]{
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-bottom: 20px;
+}
+
+.form-signin input[type="password"]{
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.checkbox{
+    margin-top: 16px;
+}

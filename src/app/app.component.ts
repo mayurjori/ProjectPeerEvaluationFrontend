@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'PeerEvaluationFrontEnd';
+  username = '';
+  password ='';
+
+  signIn(){
+    console.log("Clicked");
+  }
 }
